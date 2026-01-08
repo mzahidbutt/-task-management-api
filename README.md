@@ -206,8 +206,8 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd Pana_project/task-api
+git clone https://github.com/mzahidbutt/-task-management-api.git
+cd -task-management-api/task-api
 ```
 
 2. **Install dependencies**
@@ -372,7 +372,7 @@ Output: High-quality feature ✅
 
 ## 🎬 Demo Video
 
-> **Demo Video Link:** [Add your video link here]
+> **Demo Video Link:** [Coming Soon - Recording in Progress]
 
 **Duration:** 90 seconds
 
@@ -423,10 +423,10 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-**[Your Name]**
-- Email: [your.email@example.com]
-- LinkedIn: [linkedin.com/in/yourprofile]
-- GitHub: [github.com/yourusername]
+**[Muhammad Zahid Butt]**
+- Email: [muhammadzahidbutt@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/muhammad-zahid-2b5a3b52/]
+- GitHub: [github.com/mzahidbutt]
 
 ---
 
@@ -449,17 +449,17 @@ This project is licensed under the MIT License.
 | API Endpoints | 7 |
 | Skills Created | 5 |
 | Tests Written | 36 |
-| Development Time | 4 weeks |
+| Development Time | 1 weeks |
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for Panaversity Quarter 4 Project**
+**Built with ❤️ for Panaversity Project**
 
 ⭐ Star this repo if you found it helpful!
 
-[Demo Video](#) | [Documentation](#-api-documentation) | [Tests](#-testing)
+[Repository](https://github.com/mzahidbutt/-task-management-api) | [Documentation](#-api-documentation) | [Tests](#-testing)
 
 </div>
 
