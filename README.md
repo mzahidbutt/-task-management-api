@@ -372,7 +372,7 @@ Output: High-quality feature ✅
 
 ## 🎬 Demo Video
 
-> **Demo Video Link:** [Coming Soon - Recording in Progress]
+> **Demo Video Link:** [Watch on YouTube](https://www.youtube.com/watch?v=UDMi-VzEtjE)
 
 **Duration:** 90 seconds
 
