@@ -1,6 +1,6 @@
 # 🚀 Task Management API - AI-Native Development Project
 
-> **Panaversity Quarter 4 Project** | Production-ready FastAPI with AI-powered development skills
+> **Panaversity Project** | Production-ready FastAPI with AI-powered development skills
 
 A complete Task Management API built using modern Python technologies and AI-native development workflows. This project demonstrates professional software engineering practices including automated development workflows, comprehensive testing, and cloud database integration.
 
