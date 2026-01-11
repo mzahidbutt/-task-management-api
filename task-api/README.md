@@ -2,10 +2,6 @@
 
 A production-ready FastAPI application with SQLModel ORM and Neon PostgreSQL cloud database.
 
-## Demo Video
-
-Watch the complete demo: **[Task Management API Demo](https://www.youtube.com/watch?v=UDMi-VzEtjE)**
-
 ## Quick Start
 
 ### Prerequisites
